@@ -2,4 +2,12 @@
   border: 5px solid red;
 }
 
-/*# sourceMappingURL=style.css.map */
+.menu a {
+  text-decoration: none;
+}
+
+h1 {
+  color: red;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNJLHFCQUFBO0FDQ0o7O0FERUE7RUFDSSxxQkFBQTtBQ0NKOztBREVBO0VBQ0ksVUFBQTtBQ0NKIiwiZmlsZSI6InN0eWxlLmNzcyJ9 */
